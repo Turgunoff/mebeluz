@@ -23,8 +23,8 @@ A modern Flutter mobile application for a furniture store, built with Clean Arch
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/mebel_uz.git
-cd mebel_uz
+git clone https://github.com/YOUR_USERNAME/mebeluz.git
+cd mebeluz
 ```
 
 2. **Install dependencies**
@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Developer**: [Your Name]
 - **Email**: [your.email@example.com]
-- **Project Link**: [https://github.com/YOUR_USERNAME/mebel_uz](https://github.com/YOUR_USERNAME/mebel_uz)
+- **Project Link**: [https://github.com/YOUR_USERNAME/mebeluz](https://github.com/YOUR_USERNAME/mebeluz)
 
 ## 🙏 Acknowledgments
 
